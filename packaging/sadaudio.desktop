@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Sadaudio
+GenericName=Audio Player
+GenericName[ar]=مشغّل صوتيات
+Comment=Pixel-art audio player with equalizer and bilingual interface
+Comment[ar]=مشغّل صوتيات بتصميم بكسلي مع معادل صوتي وواجهة ثنائية اللغة
+Exec=sadaudio
+Icon=sadaudio
+Terminal=false
+Categories=AudioVideo;Audio;Player;
+Keywords=music;audio;mp3;flac;m4a;ogg;opus;equalizer;
