@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "/home/yassin/sada/sadaudio/build/sadaudio_autogen",
+	"CMAKE_BINARY_DIR" : "/home/yassin/sada/sadaudio/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/yassin/sada/sadaudio/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/yassin/sada/sadaudio",
+	"CMAKE_SOURCE_DIR" : "/home/yassin/sada/sadaudio",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/yassin/sada/sadaudio/build/sadaudio_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/yassin/sada/sadaudio/assets/fonts/PressStart2P-Regular.ttf",
+		"/home/yassin/sada/sadaudio/assets/fonts/Silkscreen-Regular.ttf",
+		"/home/yassin/sada/sadaudio/assets/fonts/Silkscreen-Bold.ttf"
+	],
+	"LOCK_FILE" : "/home/yassin/sada/sadaudio/build/CMakeFiles/sadaudio_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt6/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/yassin/sada/sadaudio/build/CMakeFiles/sadaudio_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/yassin/sada/sadaudio/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

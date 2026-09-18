@@ -1,0 +1,9 @@
+/home/yassin/sada/sadaudio/build/CMakeFiles/sadaudio.dir
+/home/yassin/sada/sadaudio/build/CMakeFiles/edit_cache.dir
+/home/yassin/sada/sadaudio/build/CMakeFiles/rebuild_cache.dir
+/home/yassin/sada/sadaudio/build/CMakeFiles/list_install_components.dir
+/home/yassin/sada/sadaudio/build/CMakeFiles/install.dir
+/home/yassin/sada/sadaudio/build/CMakeFiles/install/local.dir
+/home/yassin/sada/sadaudio/build/CMakeFiles/install/strip.dir
+/home/yassin/sada/sadaudio/build/CMakeFiles/sadaudio_autogen_timestamp_deps.dir
+/home/yassin/sada/sadaudio/build/CMakeFiles/sadaudio_autogen.dir
