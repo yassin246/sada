@@ -1,2 +1,2 @@
 # sada
-a media player for linux and android
+a media player for linux
